@@ -1,0 +1,271 @@
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;}
+#big{
+	background:#999;
+	width:1366px;
+	height:10511px;}
+#denglu{
+	background:#80FF80;
+	width:1366px;
+	height:256px;}
+#login{
+	width:1366px;
+	height:30px;}
+#songzhi{
+	background:#FF8080;;
+	width:400px;
+	height:30px;}
+#login_menu{
+	background:#0080FF;
+	width:966px;
+	height:30px;}
+#guanggao{
+	background:#8080C0;
+	width:1366px;
+	height:80px;}
+#top_bottom{
+	width:1366px;
+	height:146px;}
+#sousuo{
+	background:#FF8000;
+	width:1366px;
+	height:85px;}
+#fmc{
+	background:#FFFF80;
+	width:1366px;
+	height:61px;}
+#menu{
+	background:#096;
+	width:1230px;
+	height:468px;
+	margin:0 auto;}
+#caidan{
+	background:#F00;
+	width:210px;
+	height:468px;
+	float:left;}
+#diankuai{
+	background:#FF0080;
+	width:990px;
+	height:468px;
+	float:right;}
+#diannao{
+	background:#80FFFF;
+	width:730px;
+	height:468px;
+	float:left;}
+#kuaibao{
+	background:#FF8080;
+	width:250px;
+	height:468px;
+	float:right;}
+#jinrituijian{
+	background:#969;
+	width:1230px;
+	height:151px;
+	margin:0 auto;
+	margin-top:10px;}
+#caini{
+	background:#CF6;
+	width:1230px;
+	height:232px;
+	margin:0 auto;
+	margin-top:70px;}
+#pinzhi{
+	background:#408080;
+	width:1230px;
+	height:407px;
+	margin:0 auto;
+	margin-top:56px;}
+#orange{
+	background:#6CF;
+	width:1230px;
+	height:110px;
+	margin:0 auto;
+	margin-top:20px;}
+#f1{
+	background:#008000;
+	width:1230px;
+	height:667px;
+	margin:0 auto;
+	margin-top:30px;}
+#f1_shangbiao{
+	background:#0CF;
+	width:1230px;
+	height:66px;
+	margin:0 auto;
+	margin-top:10px;}
+#f2{
+	background:#49B693;
+	width:1230px;
+	height:510px;
+	margin:0 auto;
+	margin-top:22px;}
+#f2_shangbiao{
+	background:#0CF;
+	width:1230px;
+	height:66px;
+	margin:0 auto;
+	margin-top:10px;}
+#lanhong{
+	background:#BED7A8;
+	width:1230px;
+	height:110px;
+	margin:0 auto;
+	margin-top:22px;}
+#f3{
+	background:#66FF00;
+	width:1230px;
+	height:510px;
+	margin:0 auto;
+	margin-top:22px;}
+#f3_shangbiao{
+	background:#0CF;
+	width:1230px;
+	height:66px;
+	margin:0 auto;
+	margin-top:10px;}
+#f4{
+	background:#66FF00;
+	width:1230px;
+	height:510px;
+	margin:0 auto;
+	margin-top:22px;}
+#f4_shangbiao{
+	background:#0CF;
+	width:1230px;
+	height:66px;
+	margin:0 auto;
+	margin-top:10px;}
+#f5{
+	background:#66FF00;
+	width:1230px;
+	height:510px;
+	margin:0 auto;
+	margin-top:22px;}
+#f5_shangbiao{
+	background:#0CF;
+	width:1230px;
+	height:66px;
+	margin:0 auto;
+	margin-top:10px;}
+#zise{
+	background:#800080;
+	width:1230px;
+	height:110px;
+	margin:0 auto;
+	margin-top:22px;}
+#f6{
+	background:#66FF00;
+	width:1230px;
+	height:510px;
+	margin:0 auto;
+	margin-top:22px;}
+#f6_shangbiao{
+	background:#0CF;
+	width:1230px;
+	height:66px;
+	margin:0 auto;
+	margin-top:10px;}
+#f7{
+	background:#66FF00;
+	width:1230px;
+	height:510px;
+	margin:0 auto;
+	margin-top:22px;}
+#f7_shangbiao{
+	background:#0CF;
+	width:1230px;
+	height:66px;
+	margin:0 auto;
+	margin-top:10px;}
+#f8{
+	background:#66FF00;
+	width:1230px;
+	height:510px;
+	margin:0 auto;
+	margin-top:22px;}
+#f8_shangbiao{
+	background:#0CF;
+	width:1230px;
+	height:66px;
+	margin:0 auto;
+	margin-top:10px;}
+#f9{
+	background:#66FF00;
+	width:1230px;
+	height:510px;
+	margin:0 auto;
+	margin-top:22px;}
+#f9_shangbiao{
+	background:#0CF;
+	width:1230px;
+	height:66px;
+	margin:0 auto;
+	margin-top:10px;}
+#jdog{
+	background:#804040;
+	width:140px;
+	height:162px;
+	margin:0 auto;}
+#f10{
+	background:#66FF00;
+	width:1230px;
+	height:510px;
+	margin:0 auto;}
+#f10_shangbiao{
+	background:#0CF;
+	width:1230px;
+	height:66px;
+	margin:0 auto;
+	margin-top:10px;}
+#f11{
+	background:#66FF00;
+	width:1230px;
+	height:510px;
+	margin:0 auto;
+	margin-top:22px;}
+#f11_shangbiao{
+	background:#0CF;
+	width:1230px;
+	height:66px;
+	margin:0 auto;
+	margin-top:10px;}
+#f12{
+	background:#66FF00;
+	width:1230px;
+	height:510px;
+	margin:0 auto;
+	margin-top:22px;}
+#f12_shangbiao{
+	background:#0CF;
+	width:1230px;
+	height:66px;
+	margin:0 auto;
+	margin-top:10px;}
+#tiantiantejia{
+	background:#FF8000;
+	width:1230px;
+	height:282px;
+	margin:0 auto;
+	margin-top:56px;}
+#biaoyu{
+	background:#DA2541;
+	width:1366px;
+	height:95px;
+	margin-top:22px;}
+#fuwu{
+	background:#FFF;
+	width:1366px;
+	height:202px;}
+#xinxi{
+	background:#FFD2E9;
+	width:1366px;
+	height:210px;}
+
+
+
+
+
